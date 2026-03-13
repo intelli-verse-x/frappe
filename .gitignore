@@ -104,7 +104,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -183,7 +182,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # next.js build output
 .next
@@ -198,3 +196,4 @@ cypress/videos
 .helix/
 # Aider AI Chat
 .aider*
+config.bat
