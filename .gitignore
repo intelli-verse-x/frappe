@@ -9,7 +9,6 @@ dist/
 # build/
 frappe/docs/current
 frappe/public/dist
-.vscode
 .vs
 node_modules
 .kdev4/
