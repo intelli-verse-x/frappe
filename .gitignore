@@ -196,4 +196,3 @@ cypress/videos
 .helix/
 # Aider AI Chat
 .aider*
-config.bat
